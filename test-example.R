@@ -13,7 +13,6 @@ leaflet() %>%
     circleOptions = FALSE,
     rectangleOptions = FALSE,
     markerOptions = FALSE,
-  #   circleMarkerOptions = FALSE,
     editOptions = editToolbarOptions(
       selectedPathOptions = selectedPathOptions()
     )
